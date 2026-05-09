@@ -5,9 +5,9 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: TeamHero APT Repository
-Date: Sat, 09 May 2026 05:37:58 +0000
+Date: Sat, 09 May 2026 06:17:37 +0000
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
- b28b29656bb45fe173b0c6db7769776ad8da4368c1152313c5ad0eebc84e7725 29 main/binary-amd64/Packages.gz
- f9bab516c9dcc47844f705937b41ee787e1559d9b8fdb15848369b6f2d42fc57 29 main/binary-arm64/Packages.gz
+ 40064c6c71444cf5993e3b3155d80b5252e3e0209c38d81e3061f1d3f73648d4 29 main/binary-amd64/Packages.gz
+ 35321570df429e949ed680c79e49503e60565789fce288aa8772124f9b500f86 29 main/binary-arm64/Packages.gz
