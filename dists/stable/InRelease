@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TeamHero
+Label: TeamHero
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: TeamHero APT Repository
+Date: Sat, 09 May 2026 05:37:58 +0000
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ b28b29656bb45fe173b0c6db7769776ad8da4368c1152313c5ad0eebc84e7725 29 main/binary-amd64/Packages.gz
+ f9bab516c9dcc47844f705937b41ee787e1559d9b8fdb15848369b6f2d42fc57 29 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE/kP7n7nH978koi/mck8iMnm6rCgFAmn+yDYACgkQck8iMnm6
+rChdhQ/7BdOKB8nDMkqNK6NjStA15XcG0yLpUyRL1ymfjBEMbN/tRwhp0bXurmA3
+b6KtTTi6Z3/dsG99ycQ6anyjVxmWATEDWyAU5siHRsy3dGrrD5N/YwgFCk4yaXCv
+RfO1Q6JBoGfSNsnYaXzFpmHna1NpCyO5lrlJrwQuJoYjEpvuO4ZWLF/qa7aKDoCa
+fahI1Epue1oGLs+TrZorBs0p4spvjujtWYfGw/W+jfXTJFQMMQDqzGhUoXHwsYGB
+o8bFNag695xqnpnfoogZythBO57mA4LfJhHR0X29AQMPHjXplnuMhGM7OLoLNsI9
+sLvW/eZBNYqBblYYWPGFIaMaJovB0mV2zI8hnL2JRQDK6vrFc5c8daoyA1Uk5i8Q
+o6x0uX7wKjmyjDaJpOBmWNGLKXkOiVjKZvbkZaSFC+EMbqwMl/wil8c4Ms2YN++U
+AeQiva4NdQGGK567ngYW/7nM+hLqt4FxPKEMW3IN3JYe34ilGWuFgfMG++BFfb9f
+bhPfZ+od+qFg4Eu0zxPH42a6Az0dzCMAXe5+HUFEt/VqAGWJQdqnsjAOMT0y/K1w
+GiA96Ww4BD6EefrOHS4sxAC4CPaQv9nN2CWVX0tlNZivxJxjnBIWiwxXN6YxNF3K
+EBAUHv536+6BDvyiwcgeWJhd05qlEGKdfa4Eh/fdIUkzguPlVh4=
+=pfic
+-----END PGP SIGNATURE-----
